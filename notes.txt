@@ -1,0 +1,7 @@
+I'm going to put my notes here to document my thought proccesses and stuff like that. I do this at work and it's nice to have, so cowabunga it is. I'll format this better in future.
+
+4/6/19
+- Probably will do this in Python
+- Learned about cron, use this
+- Was going to use free EC2, but since it's based on time now I'm just going to run it off a Pi Zero (one of the 3 I have that are just lying around)
+- How am I going to format this stuff... Well first let's see what the Reddit API holds that we can use
